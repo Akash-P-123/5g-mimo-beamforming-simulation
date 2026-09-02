@@ -4,7 +4,7 @@ A simple and interactive **5G MIMO Beamforming Simulation** developed using Pyth
 
 This mini project demonstrates how multiple antennas can focus a wireless signal toward a selected user and reduce interference from another direction.
 
-Click this link for view the project : https://fiveg-mimo-simulator.onrender.com/
+Click this link for view the project : https://fiveg-mimo-beam-forming.onrender.com/
 
 ## 🎯 Project Objective
 
